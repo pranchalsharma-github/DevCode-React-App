@@ -3,4 +3,4 @@
 
 A real-time code editor built using React, Node Js and Web Sockets for real-time communication.
 
-Took the inspiration from (https://www.youtube.com/c/CodersGyan)'s Youtube tutorial on how the same, check it out to learn amazing development stuff! 
+Took the inspiration from (https://www.youtube.com/c/CodersGyan)'s Youtube tutorial on the same, check it out to learn amazing development stuff! 
